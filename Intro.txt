@@ -1,0 +1,68 @@
+
+
+  JavaSscript ( JS )
+  ------------------
+  
+  --> scripting lang for Web-Pages
+      +
+  --> Server-side programming lang ( NodeJS )
+  --> Desktop Appln
+  --> Command-line tools ( Testing,Build Tools )
+  --> Mobile Applns.
+  
+  -----------------------------------------
+  
+  JS Environments  ( includes JS Engine )
+  
+    Browser
+	NodeJS
+	JVM  ( Nashorn )
+	Rhino
+	Apache CouchDB
+	
+ ------------------------------------------------
+
+  JS Notes
+  
+  --> functinal-programming Lang
+  --> OO language
+  --> No Class
+  --> dynamic type
+  --> supports closures
+  --> all functions are objectes by default.
+  
+  --> supporets 'prototype' based inheritance
+  
+  ------------------------------------------
+  
+  JS is impl of ECMAScript  spec
+  
+  ECMAScript community
+  
+  
+  ES 3
+  ES 4 
+  
+  ES 5 
+  
+  ES 6
+  
+  -------------------------------------------------
+  
+  
+
+
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
